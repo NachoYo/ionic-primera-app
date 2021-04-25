@@ -8,5 +8,8 @@ import { Component } from '@angular/core';
 export class Tab1Page {
 
   constructor() {}
-
+    ngOnInit(){
+    let number = 0
+    console.log("Prueba")
+  }
 }
